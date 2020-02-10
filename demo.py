@@ -10,3 +10,4 @@ print(z = x + y)
 
     '''
 
+z = x * y
